@@ -1,0 +1,23 @@
+[
+	{
+		"uday": {
+			"gender": "Male",
+			"name": "Uday",
+			"age": "26"
+		},
+		"reddy": {
+			"gender": "Male",
+			"name": "reddy",
+			"age": "26"
+		},
+		"naresh": {
+			"gender": "Male",
+			"name": "Naresh",
+			"age": "26"
+		}
+	},
+	{
+	},
+	{
+	}
+]

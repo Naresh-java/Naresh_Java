@@ -1,0 +1,5 @@
+<login>
+	<username locator="name" value="txtUsername" />
+	<password locator="name" value="txtPassword" />
+	<clicklogin locator="name" value="Submit" />
+</login>

@@ -1,0 +1,12 @@
+{
+	"naresh": {
+		"firstName": "Naresh",
+		"lastName": "Reddy",
+		"gmail": "naresh@gmail.com"
+	},
+	"uday": {
+		"firstName": "uday",
+		"lastName": "Reddy",
+		"gmail": "naresh@gmail.com"
+	}
+}
