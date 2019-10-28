@@ -16,7 +16,7 @@ public class LoginOrangeHRM {
 		driver.manage().timeouts().implicitlyWait
 		(Data.IMPLICIT_TIMEOUT, TimeUnit.SECONDS);
 		driver.manage().window().maximize();
-		String filePath = "D:\\JavaPractice\\Maven_Framework\\Repositorys\\OrangeHRM.xml";
+		String filePath = "C:\\Users\\NARESH\\git\\repository2\\Maven_Framework\\Repositorys\\OrangeHRM.xml";
 		RepositoryUtili.loadRepositoryFile(filePath);
 		WebElement username =driver.findElement(RepositoryUtili.getBy("username"));
 		username.clear();

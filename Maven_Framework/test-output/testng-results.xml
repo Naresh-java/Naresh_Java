@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="39562" started-at="2019-10-23T22:12:33 IST" finished-at="2019-10-23T22:13:13 IST">
+  <suite name="Default suite" duration-ms="12959" started-at="2019-10-24T21:53:13 IST" finished-at="2019-10-24T21:53:26 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="39562" started-at="2019-10-23T22:12:33 IST" finished-at="2019-10-23T22:13:13 IST">
+    <test name="Default test" duration-ms="12959" started-at="2019-10-24T21:53:13 IST" finished-at="2019-10-24T21:53:26 IST">
       <class name="framework.LoginOrangeHRM">
-        <test-method status="PASS" signature="loginToOrangeHRM()[pri:0, instance:framework.LoginOrangeHRM@27a5f880]" name="loginToOrangeHRM" duration-ms="39503" started-at="2019-10-23T22:12:33 IST" finished-at="2019-10-23T22:13:13 IST">
+        <test-method status="PASS" signature="loginToOrangeHRM()[pri:0, instance:framework.LoginOrangeHRM@5f282abb]" name="loginToOrangeHRM" duration-ms="12900" started-at="2019-10-24T21:53:14 IST" finished-at="2019-10-24T21:53:26 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginToOrangeHRM -->

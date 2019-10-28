@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="framework.UtilityMethos"/>
+      <class name="framework.Flipkart"/>
+      <class name="sikuli.SikuliTest"/>
+      <class name="restassured.RestAssuredExam"/>
+      <class name="excel.Find_Breaken_Links"/>
+      <class name="framework.LoginOrangeHRM"/>
+      <class name="json.JSON_Test"/>
+      <class name="log4j.LoginTest"/>
+      <class name="log4j.Log4J_Test_FreeCRM"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
