@@ -37,7 +37,6 @@ public class Read_Data_From_XML {
 			}  
 			}  
 			}   catch (ParserConfigurationException | SAXException | IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}

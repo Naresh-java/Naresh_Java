@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="12959" started-at="2019-10-24T21:53:13 IST" finished-at="2019-10-24T21:53:26 IST">
+  <suite name="Default suite" duration-ms="13001" started-at="2019-11-02T10:12:04 IST" finished-at="2019-11-02T10:12:17 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="12959" started-at="2019-10-24T21:53:13 IST" finished-at="2019-10-24T21:53:26 IST">
-      <class name="framework.LoginOrangeHRM">
-        <test-method status="PASS" signature="loginToOrangeHRM()[pri:0, instance:framework.LoginOrangeHRM@5f282abb]" name="loginToOrangeHRM" duration-ms="12900" started-at="2019-10-24T21:53:14 IST" finished-at="2019-10-24T21:53:26 IST">
+    <test name="Default test" duration-ms="13001" started-at="2019-11-02T10:12:04 IST" finished-at="2019-11-02T10:12:17 IST">
+      <class name="excel.Read_Write_Data_Excel">
+        <test-method status="PASS" signature="launch()[pri:0, instance:excel.Read_Write_Data_Excel@e320068]" name="launch" duration-ms="12921" started-at="2019-11-02T10:12:04 IST" finished-at="2019-11-02T10:12:17 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- loginToOrangeHRM -->
-      </class> <!-- framework.LoginOrangeHRM -->
+        </test-method> <!-- launch -->
+      </class> <!-- excel.Read_Write_Data_Excel -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
