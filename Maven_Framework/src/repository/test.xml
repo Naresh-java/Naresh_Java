@@ -1,0 +1,7 @@
+<objectInfo>
+	<loginInfo>
+		<username locator="name" value="txtUsername" />
+		<password locator="name" value="txtPassword" />
+		<loginbutton locator="name" value="Submit" />
+	</loginInfo>
+</objectInfo>

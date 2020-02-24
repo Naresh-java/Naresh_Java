@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="excel.Read_Write_Data_Excel">
+      <class name="framework.ComparisonOF_A_F">
         <methods>
-          <include name="launch"/>
+          <include name="priceComparition"/>
         </methods>
-      </class> <!-- excel.Read_Write_Data_Excel -->
+      </class> <!-- framework.ComparisonOF_A_F -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
